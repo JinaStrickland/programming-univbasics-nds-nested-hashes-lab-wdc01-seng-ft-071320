@@ -23,11 +23,11 @@ def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
   infinite_jest = [
-    DON_G[0],
-    JOELLE_VD[0]
-    PAT_M[0]
-    KATE_G[0]
-    BRUCE_G[0]
+    infinite_jest[0],
+    infinite_jest[1]
+    infinite_jest[2]
+    infinite_jest[3]
+    infinite_jest[4]
     ]
 end
 
