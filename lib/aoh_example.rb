@@ -24,9 +24,9 @@ def literal_aoh
   # held in the constants
   infinite_jest = [
     infinite_jest[0],
-    infinite_jest[1]
-    infinite_jest[2]
-    infinite_jest[3]
+    infinite_jest[1],
+    infinite_jest[2],
+    infinite_jest[3],
     infinite_jest[4]
     ]
 end
